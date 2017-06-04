@@ -1,0 +1,9 @@
+.. raw:: html
+
+    <ul class="social-list colored">
+        <li class="social-item facebook"><a href="https://www.facebook.com/castaliopod" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li class="social-item twitter"><a href="https://twitter.com/castaliopod" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li class="social-item youtube"><a
+        href="https://www.youtube.com/c/CastalioPodcast" target="_blank"><i class="fa fa-youtube"></i></a></li>
+        <li class="social-item spotify"><a href="https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg" target="_blank"><i class="fa fa-spotify"></i></a></li>
+    </ul>
